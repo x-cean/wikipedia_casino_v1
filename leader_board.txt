@@ -1,1 +1,1 @@
-[('Maicom', 100), ('Wink', 40), ('Wind', 20), ('Tegir', 20), ('Tiger', 20), ('Alright', 0), ('Alright', 0), ('Pokemon', 0), ('Finally2', 40), ('Finally', 20), ('NeverLand', 80), ('Orange', 20), ('Marga', 84), ('Yuval', 68), ('Masterschool', 0)]
+[('Maicom', 100), ('Wink', 40), ('Wind', 20), ('Tegir', 20), ('Tiger', 20), ('Pokemon', 0), ('Finally2', 40), ('Finally', 20), ('NeverLand', 80), ('Orange', 20), ('Marga', 84), ('Yuval', 68), ('Masterschool', 0), ('wowow', 76)]
