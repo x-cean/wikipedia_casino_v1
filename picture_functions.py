@@ -25,7 +25,7 @@ def display_pic_in_terminal(img_path):
     """
     try:
         art = AsciiArt.from_image(img_path)
-        print(art.to_ascii(columns=80))
+        print(art.to_ascii(columns=100))
     except Exception as e:
         print(f"Error displaying ASCII image: {e}")
 
